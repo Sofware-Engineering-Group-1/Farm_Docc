@@ -9,4 +9,25 @@ Benjamine Atiemo, known for his expertise in responsive web design and front-end
 Seconds, the third member of the front-end development team, brought a unique blend of technical prowess and creative flair to the project. Leveraging his proficiency in cutting-edge front-end technologies and frameworks, Seconds crafted dynamic and interactive user interfaces that would captivate farmers and encourage them to explore the website's rich content.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1.  Farm Docc<a id=1></a>
