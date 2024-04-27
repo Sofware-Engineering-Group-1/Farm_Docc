@@ -1,4 +1,4 @@
-Farm Docc is an innovative online platform designed to empower farmers with comprehensive information and guidance on crop cultivation.
+<b> Farm Docc</b> is an innovative online platform designed to empower farmers with comprehensive information and guidance on crop cultivation.
 
 Before the backend developers could begin their work on the Farm Docc website, the front-end development team, comprising Eric Adu Obeng, Benjamine Atiemo, and Seconds, had already laid the groundwork with their exceptional interface designs. As a talented trio of front-end developers, Eric, Benjamine, and Seconds brought their unique skills and creative visions to the project, collaborating seamlessly to craft a user experience that would captivate and engage the target audience of farmers.
 
