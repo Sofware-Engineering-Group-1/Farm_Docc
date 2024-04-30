@@ -7,3 +7,4 @@ Eric Adu Obeng, with my strong background in computer engineering and front-end 
 Benjamine Atiemo, known for his expertise in responsive web design and front-end architecture, played a crucial role in ensuring the website's adaptability across various devices and screen sizes. His meticulous approach to building a mobile-friendly and accessible interface guaranteed that farmers, regardless of their device preferences, could seamlessly navigate and interact with the website's content.
 
 Daniel, the third member of the front-end development team, brought a unique blend of technical prowess and creative flair to the project. Leveraging his proficiency in cutting-edge front-end technologies and frameworks, Daniel crafted dynamic and interactive user interfaces that would captivate farmers and encourage them to explore the website's rich content.
+Webpages prototype run well with Django liveserver.
